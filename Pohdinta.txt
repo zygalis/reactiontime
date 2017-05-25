@@ -1,0 +1,18 @@
+﻿1. Minusta harjoitus oli aika vaikea siihen nähden kuinka paljon aihetta oli käsitelty tunneilla.
+
+
+2. Laajuudeltaan harjoitus oli ehkä jopa liiankin laaja. Ehkä reaktioaika osio olisi saanut jäädä pois, niin tehtävä olisi ollut sopivan mittainen.
+
+
+3. Helppoa harjoituksessa oli kaikki valmiiden luokkien luominen sekä valmiiksi annettujen jäsenmuuttujien sekä metodien kirjoittaminen.
+
+
+4. Harjoitus oli itselleni ainakin kokonaisuutena aika haastava, enkä olisi siitä ilman luokkarovereita selvinnyt. Jsp tiedostojen luonti oli ehkä omasta mielestäni se haastavin osuus,
+   
+enkä niitä edelleenkään osaa kunnolla tehdä.
+
+
+5. Luomaan luokkia ja niiden sisällä olevia muuttujia sekä metodeja. Sekä olemaan kärsivällinen silloin kun koodi ei alkanut heti toimimaan.
+
+
+6. Kannattaa treenata näitä juttuja enemmän kuin koulussa jos aika suinkin riittää. Tässäkin tehtävässä kokemus olisi ollut hyväksi.
